@@ -31,4 +31,3 @@ print(job_title)
 df = pd.DataFrame({"company_name":company_name,"job_title":job_title})
 print(df.head(1000))
 
-#%%
